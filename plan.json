@@ -1,0 +1,14 @@
+{
+  "id": "pro",
+  "name": "Pro",
+  "price_cents": 5000,
+  "monthly_query_limit": 1000,
+  "features": [
+    "1000 consultas por mes",
+    "Historico completo",
+    "Prioridade visual",
+    "Suporte prioritario"
+  ],
+  "price": 50,
+  "puxa_tudo_daily_limit": 20
+}
